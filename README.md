@@ -6,7 +6,7 @@ Les path seront à redefinir
 
 L'extraction des données a été effectué depuis jupyter Notebook en local. 
 
-Pour le training, l'utilisation d'un GPU a nécéssité l'utilisation de Google Collab
+Pour le training, l'utilisation d'un GPU a nécéssité l'utilisation de Google Colab
 
 ## Extraction des données 
 
