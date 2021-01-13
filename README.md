@@ -32,7 +32,7 @@ Récupérer les memes labels que l'image de base.
 
 ## Configurer le model
 
-En réutilisant le tutoriel https://github.com/AlexeyAB/darknet modifié le fichier darknet en prenant en compte la quantité de données utilisée.
+En réutilisant le tutoriel https://github.com/AlexeyAB/darknet: configuration du folder darknet en prenant en compte la quantité de données utilisée.
 
 ## Train & Test le model
 
